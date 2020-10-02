@@ -44,3 +44,6 @@ End with an example of getting some data out of the system or using it for a lit
 ## Usage <a name = "usage"></a>
 
 All the js inside repositories is optional and provide basic usage of repository pattern in Vue to handle external resources consumptions.
+
+
+Álvaro
